@@ -158,10 +158,14 @@ javascript: (async function () {
     })
 
     ///[.\-_]/
-    const words = originalLineText
-      .split(/[|#.\-_\s+]/)
-      .map(w => w.trim())
-      .filter(w => w.length > 0)
+    const words = Array.from(
+      new Set(
+        originalLineText
+          .split(/[|#.\-_\s+]/)
+          .map(w => w.trim())
+          .filter(w => w.length > 0)
+      )
+    )
 
     if (words.length > 0) {
       words.forEach(word => {
