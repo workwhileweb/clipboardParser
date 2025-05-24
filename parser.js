@@ -111,7 +111,7 @@ javascript: (async function () {
 
   const title = document.createElement('strong')
   title.innerHTML =
-    'Clipboard Parser ⌨️ by <a href="https://t.me/xn3wb1e" target="_blank">@xn3wb1e</a> 🕸️ <a href="" target="_blank"></a>'
+    'Clipboard Parser ⌨️ by <a href="https://t.me/xn3wb1e" target="_blank">@xn3wb1e</a> <a href="https://github.com/workwhileweb/clipboardParser" target="_blank">🕸️</a>'
   header.appendChild(title)
 
   const closeButton = document.createElement('button')
