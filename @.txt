@@ -10,13 +10,14 @@ https://workwhileweb.github.io/clipboardParser/
 https://html5doctor.com/demos/forms/forms-example.html
 
 
-
 ➡️ chia sẽ với anh em tool hỗ trợ nhập liệu nhanh cho trình duyệt
+➡️ https://workwhileweb.github.io/clipboardParser/
 ➡️ kéo thả bookmarklet vào bookmarkbar của trình duyệt
 ➡️ copy toàn bộ dữ liệu cần điền và bấm vào bookmarklet
 ➡️ tool sẽ tự phân tách thành các từ và các dòng để dễ copy
 ➡️ click vào các từ hoặc các dòng cần copy và dán vào input
 ➡️ xem video hướng dẫn tại trang web để biết chi tiết
-➡️ https://workwhileweb.github.io/clipboardParser/
 ➡️ mọi vấn đề hỗ trợ và góp ý xin gửi về : https://t.me/clipboardparser
 
+
+bổ sung split by line, space, | ...
